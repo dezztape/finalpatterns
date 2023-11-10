@@ -41,6 +41,10 @@ Challenges encountered during the project are discussed, accompanied by insights
 
 Ideas and plans for future enhancements or improvements to the project are shared. Areas for potential expansion, optimization, or inclusion of additional design patterns are identified.
 
+### 3.4 UML
+
+<img width="851" alt="image" src="https://github.com/dezztape/finalpatterns/assets/78809034/5acd8947-2263-4a36-9506-b269249cb63d">
+
 ## 4. References
 
 List of references, including books, online resources, or frameworks, used during the project is provided. Proper attribution to external sources contributing to the project's development and understanding of design patterns is ensured.
